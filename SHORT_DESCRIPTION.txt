@@ -1,0 +1,8 @@
+A Flutter movie tracker app with a customizable Android home screen widget. Track upcoming releases, upload custom posters, and personalize widget cards with 8 vibrant colors. Features neobrutalist design, smart sorting, auto-sync, and quick-add functionality. Built with Flutter, SQLite, and native Kotlin widgets.
+
+---
+
+Word Count: 48 words
+
+Alternative Version (58 words):
+Track your most anticipated movie releases with style! This Flutter app features a live Android home screen widget that displays your movies with customizable colors. Add release dates, upload posters, sort your collection, and keep everything synced. Bold neobrutalist design meets practical functionality for movie enthusiasts.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Neo-Brutalism Color Palette -->
+    <color name="neo_yellow">#FDFD96</color>
+    <color name="neo_green">#BAFCA2</color>
+    <color name="neo_blue">#87CEEB</color>
+    <color name="neo_pink">#FFC0CB</color>
+    <color name="neo_purple">#C4A1FF</color>
+    <color name="neo_orange">#FFDBB8</color>
+    <color name="neo_red">#FFA07A</color>
+    
+    <!-- Base colors -->
+    <color name="neo_black">#000000</color>
+    <color name="neo_white">#FFFFFF</color>
+    <color name="neo_text">#1A1A1A</color>
+</resources>
