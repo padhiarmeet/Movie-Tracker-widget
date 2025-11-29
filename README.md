@@ -12,10 +12,6 @@ A modern, neobrutalist-styled Flutter application for tracking movie releases wi
 - **Movie Management**: Add, view, and delete your anticipated movies
 - **Custom Posters**: Upload movie posters from your gallery
 - **Release Date Tracking**: Set and track precise release dates
-- **Sorting Options**: Sort your movie list by:
-  - Date Added (newest/oldest)
-  - Release Date (soonest/latest)
-  - Movie Name (A-Z/Z-A)
 
 ### 🏠 Android Home Screen Widget
 - **Live Widget**: Display your tracked movies directly on your home screen
@@ -28,7 +24,15 @@ A modern, neobrutalist-styled Flutter application for tracking movie releases wi
 
 ## 📸 Screenshots
 
-*Coming soon - Add screenshots of your app here*
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/photo_4.jpeg" width="200" style="border:1px solid black"/></td>
+      <td><img src="assets/photo_3.jpeg" width="200" style="border:1px solid black"/></td>
+      <td><img src="assets/photo_2.jpeg" width="200" style="border:1px solid black"/></td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Getting Started
 
@@ -76,13 +80,6 @@ After installing the app:
 4. Select the release date
 5. Choose a widget card color
 6. Tap "SAVE MOVIE"
-
-### Sorting Movies
-
-Tap the sort icon in the app bar to choose from:
-- Date Added (Newest First / Oldest First)
-- Release Date (Soonest First / Latest First)
-- Name (A-Z / Z-A)
 
 ### Deleting a Movie
 
